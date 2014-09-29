@@ -1,5 +1,6 @@
 /**
  * Capitalize the argument. Example: capitalize('test') -> 'Test'
+ * @author jim-y
  * @param  {string} word
  * @return {string}
  */
