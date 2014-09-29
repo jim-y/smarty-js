@@ -1,7 +1,7 @@
 /**
- * @author jim-y
- * @description Populates an array with elements. Here map makes items populated with the 
+ * Populates an array with elements. Here map makes items populated with the 
  * array indicies, but map can do literally anything.
+ * @author jim-y
  * @param  {number} num The length of the populated array
  * @return {Array}
  */
