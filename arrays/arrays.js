@@ -1,5 +1,6 @@
 /**
- * Populates an array with elements. Here map makes items populated with the 
+ * @author jim-y
+ * @description Populates an array with elements. Here map makes items populated with the 
  * array indicies, but map can do literally anything.
  * @param  {number} num The length of the populated array
  * @return {Array}
