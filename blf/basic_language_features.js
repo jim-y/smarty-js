@@ -1,5 +1,6 @@
 /**
  * Converts arguments to an array
+ * @author jim-y
  * @return {Array} the converted arguments object
  */
 function arguments2array() {
@@ -12,6 +13,7 @@ function arguments2array() {
  * conversion, with leaving out some arguments by to be accessible by name.
  * arguments2arrayQuirck('::', 1, 2, 3)
  * > "1::2::3"
+ * @author jim-y
  * @param  {*} separator something we want to access by name
  * @return {*}
  */
