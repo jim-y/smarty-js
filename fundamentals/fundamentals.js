@@ -1,5 +1,6 @@
 /**
- * Return the sum of an array of numbers
+ * Return the sum of an array of numbers.
+ * @author jim-y
  * @param  {Array.<number>} arr
  * @return {number}
  */
