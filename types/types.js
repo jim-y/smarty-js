@@ -5,6 +5,7 @@
  * http://api.jquery.com/jquery.isplainobject/
  * https://github.com/jashkenas/underscore/blob/master/underscore.js#L1107
  * I prefer jQuery's definition.
+ * @author jim-y
  * @return {Object} typer.API utility functions for JS type checking
  */
 var typer = (function(toString) {
