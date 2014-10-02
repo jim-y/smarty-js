@@ -11,10 +11,6 @@ function objectPropsIssue() {
   return map[foo];
 }
 
-module.exports = {
-  objectPropsIssue: objectPropsIssue
-};
-
 /**
  * I would assume that the return value will always be boolean, since && means, if leftOp AND rightOp are
  * both true, then return true, otherwise false. In JavaScript its not how && works!!!
@@ -27,3 +23,8 @@ module.exports = {
 function easyToUseBadLogicalAND(arr) {
   return arr && arr.length;
 }
+
+// #################################
+module.exports = {
+  objectPropsIssue: objectPropsIssue
+};
