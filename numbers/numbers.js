@@ -15,3 +15,12 @@ function toInt(obj) {
 function trunc(num) {
   return num - num % 1;
 }
+
+/**
+ * Only the NaN values is not equal to itself in the language.
+ * @param  {Object}  obj
+ * @return {boolean}
+ */
+function isNaN(obj) {
+  return obj !== obj;
+}
